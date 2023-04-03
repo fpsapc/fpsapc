@@ -15,18 +15,8 @@
 ### Tools:
 - 🔨 Git, GitHub, VS Code
 
-[![fpsapc's GitHub stats](https://github-readme-stats.vercel.app/api?username=fpsapc)](https://github.com/fpsapc/github-readme-stats)
-
-Skills
-Here are some of the skills I possess as a full-stack developer:
-
-Front-end: HTML/CSS, JavaScript, React
-Back-end: Node.js, Ruby on Rails
-Databases: MySQL, MongoDB, PostgreSQL, SQLite
-Tools: Git, GitHub, VS Code
-
-Projects
-Here are some of the projects I've worked on as a full-stack developer:
+## Projects:
+#### Here are some of the projects I've worked on as a full-stack developer:
 
 [My Portfolio]
 [Describe the project briefly and explain your role in it. Add a screenshot if possible.]
@@ -39,6 +29,24 @@ Here are some of the projects I've worked on as a full-stack developer:
 
 [To Do List]
 [Describe the project briefly and explain your role in it. Add a screenshot if possible.]
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/fpsapc)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=fpsapc)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fpsapc)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fpsapc&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=fpsapc)  
+
+![GitHub metrics](https://metrics.lecoq.io/fpsapc)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=fpsapc)  
+
+![Profile views](https://gpvc.arturio.dev/fpsapc)  
 
 Contact Me
 If you're interested in working with me or have any questions, feel free to reach out to me via [LinkedIn/Email/Twitter/Website].
