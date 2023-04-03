@@ -1,8 +1,8 @@
 # Hi there 👋, I am Salman Ahmad Khan <br>
 ###### A Full-stack developer with 02 months of experience. I have expertise in JavaScript, React, Node.js and have worked on several projects, including My portfolio, Apple Chemicals, To Do List, and Awesome Books. <br>
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=fpsapc&show_icons=true&count_private=true" />
-  <img src="https://streak-stats.demolab.com/?user=fpsapc" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fpsapc&show_icons=true&count_private=true" width='400'/>
+  <img src="https://streak-stats.demolab.com/?user=fpsapc" width='430'/>
 </p>
 
 <p align="center"> 
