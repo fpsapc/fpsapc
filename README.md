@@ -1,6 +1,7 @@
 Salman Ahmad Khan - Full Stack Developer
 About Me
 Hi, I'm Salman Ahmad Khan, a full-stack developer with 02 months of experience. I have expertise in [ JavaScript, React, Node.js ] and have worked on several projects, including [My portfolio, Apple Chemicals, To Do List, Awesome Books].
+[![fpsapc's GitHub stats](https://github-readme-stats.vercel.app/api?username=fpsapc)](https://github.com/fpsapc/github-readme-stats)
 
 Skills
 Here are some of the skills I possess as a full-stack developer:
