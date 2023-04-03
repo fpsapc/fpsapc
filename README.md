@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Salman Ahmad Khan
 #### I am a Full Stack Developer
-![I am a Full Stack Developer](https://www.pexels.com/photo/abstract-business-code-coder-270348/)
+![I am a Full Stack Developer](https://github.com/fpsapc/fpsapc/blob/main/pexels-pixabay-270348.jpg)
 
 Hi, I'm Salman Ahmad Khan, a full-stack developer with 02 months of experience. I have expertise in [ JavaScript, React, Node.js ] and have worked on several projects, including [My portfolio, Apple Chemicals, To Do List, Awesome Books].
 
