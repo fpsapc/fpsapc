@@ -19,20 +19,28 @@
   <img src='https://github.com/fpsapc/fpsapc/blob/main/coding.gif' />  
 </div> <hr> 
 
-## 🤹‍♀️ Skills 🤹‍:
-### Front-end:
-- 💻 HTML/CSS, JavaScript, React 
-
-### Back-end: 
-- 👩‍💻 Node.js, Ruby on Rails 
-
-### Databases:
-- 📚 MySQL, MongoDB, PostgreSQL, SQLite 
-
-### Tools:
-- 🔨 Git, GitHub, VS Code
-  <hr>
-
+  <table align="center">
+		<tr>
+			<th colspan="2"><h2>🤹‍♀️ Skills 🤹‍</h2></th>
+		</tr>
+		<tr>
+			<td><b>Front-end:</b></td>
+			<td><b>Back-end:</b></td>
+		</tr>
+		<tr>
+			<td>💻 HTML/CSS, JavaScript, React&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</td>
+			<td>👩‍💻 Node.js, Ruby on Rails&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</td>
+		</tr>
+		<tr>
+			<td>Databases:</td>
+			<td>Tools:</td>
+		</tr>
+		<tr>
+			<td>📚 MySQL, MongoDB, PostgreSQL, SQLite</td>
+			<td>🔨 Git, GitHub, VS Code</td>
+		</tr>
+	</table><hr>
+  
 <h3 align="center">📞 Contact Me<h3>
 <h5 align="center"><i>If you're interested in working with me or have any questions, feel free to reach out to me via GitHub, LinkedIn, Facebook, Twitter.</i></h5><br><br>
 <div align="center">
