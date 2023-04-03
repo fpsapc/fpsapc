@@ -19,7 +19,7 @@
   <img src='https://github.com/fpsapc/fpsapc/blob/main/coding.gif' />  
 </div> <hr> 
 
-## Skills:
+## 🤹‍♀️ Skills 🤹‍:
 ### Front-end:
 - 💻 HTML/CSS, JavaScript, React 
 
@@ -33,7 +33,7 @@
 - 🔨 Git, GitHub, VS Code
   <hr>
 
-<h3 align="center">Contact Me<h3>
+<h3 align="center">📞 Contact Me<h3>
 <h5 align="center"><i>If you're interested in working with me or have any questions, feel free to reach out to me via GitHub, LinkedIn, Facebook, Twitter.</i></h5><br><br>
 <div align="center">
 <a href='https://github.com/fpsapc'><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a> &emsp;&emsp;
