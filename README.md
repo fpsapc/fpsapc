@@ -1,18 +1,19 @@
 # Hi there 👋, I am Salman Ahmad Khan <br>
 ###### A Full-stack developer with 02 months of experience. I have expertise in JavaScript, React, Node.js and have worked on several projects, including My portfolio, Apple Chemicals, To Do List, and Awesome Books. <br>
-<p align="center"> 
+<div align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=fpsapc&show_icons=true&count_private=true" width='400'/>
   <img src="https://streak-stats.demolab.com/?user=fpsapc" width='430'/>
-</p>
+</div>
 
 <p align="center"> 
   Number of People who shared me friendship <br>
   <img src="https://profile-counter.glitch.me/fpsapc/count.svg" />
 </p>
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/fpsapc)
+<div align="center">
+<a href='https://github.com/fpsapc/'><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>
-
+</div> <hr>
+  
 ## Skills:
 ### Front-end:
 - 💻 HTML/CSS, JavaScript, React 
