@@ -2,9 +2,18 @@
 ### A Full-stack developer with 02 months of experience. I have expertise in [ JavaScript, React, Node.js ] and have worked on several projects, including [My portfolio, Apple Chemicals, To Do List, Awesome Books].
 ![I am a Full Stack Developer](https://github.com/fpsapc/fpsapc/blob/main/pexels-pixabay-270348.jpg)
 
-Hi, I'm Salman Ahmad Khan, a full-stack developer with 02 months of experience. I have expertise in [ JavaScript, React, Node.js ] and have worked on several projects, including [My portfolio, Apple Chemicals, To Do List, Awesome Books].
+## Skills:
+### Front-end:
+- 💻 HTML/CSS, JavaScript, React 
 
-Skills: Front-end: HTML/CSS, JavaScript, React Back-end: Node.js, Ruby on Rails Databases: MySQL, MongoDB, PostgreSQL, SQLite Tools: Git, GitHub, VS Code
+### Back-end: 
+- 👩‍💻 Node.js, Ruby on Rails 
+
+### Databases:
+- 📚 MySQL, MongoDB, PostgreSQL, SQLite 
+
+### Tools:
+- 🔨 Git, GitHub, VS Code
 
 [![fpsapc's GitHub stats](https://github-readme-stats.vercel.app/api?username=fpsapc)](https://github.com/fpsapc/github-readme-stats)
 
