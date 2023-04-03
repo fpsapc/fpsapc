@@ -1,5 +1,5 @@
-# Hi there 👋, my name is Salman Ahmad Khan
-### A Full-stack developer with 02 months of experience. I have expertise in [ JavaScript, React, Node.js ] and have worked on several projects, including [My portfolio, Apple Chemicals, To Do List, Awesome Books].
+# Hi there 👋, I am Salman Ahmad Khan
+#### A Full-stack developer with 02 months of experience. I have expertise in JavaScript, React, Node.js and have worked on several projects, including My portfolio, Apple Chemicals, To Do List, and Awesome Books.
 ![I am a Full Stack Developer](https://github.com/fpsapc/fpsapc/blob/main/pexels-pixabay-270348.jpg)
 
 ## Skills:
@@ -42,8 +42,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=fpsapc)](https://github.com/ryo-ma/github-profile-trophy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fpsapc)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fpsapc&show_icons=true&count_private=true) 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=fpsapc)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fpsapc&show_icons=true&count_private=true)   
 ![GitHub metrics](https://metrics.lecoq.io/fpsapc)  
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=fpsapc)  
 ![Profile views](https://gpvc.arturio.dev/fpsapc)  
