@@ -1,6 +1,17 @@
-# Hi there 👋, I am Salman Ahmad Khan
-###### A Full-stack developer with 02 months of experience. I have expertise in JavaScript, React, Node.js and have worked on several projects, including My portfolio, Apple Chemicals, To Do List, and Awesome Books.
-![I am a Full Stack Developer](https://github.com/fpsapc/fpsapc/blob/main/coding.gif)
+# Hi there 👋, I am Salman Ahmad Khan <br>
+###### A Full-stack developer with 02 months of experience. I have expertise in JavaScript, React, Node.js and have worked on several projects, including My portfolio, Apple Chemicals, To Do List, and Awesome Books. <br>
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=fpsapc&show_icons=true&count_private=true" />
+  <img src="https://streak-stats.demolab.com/?user=fpsapc" />
+</p>
+
+<p align="center"> 
+  Number of People who shared me friendship <br>
+  <img src="https://profile-counter.glitch.me/fpsapc/count.svg" />
+</p>
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/fpsapc)
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>
 
 ## Skills:
 ### Front-end:
@@ -15,6 +26,7 @@
 ### Tools:
 - 🔨 Git, GitHub, VS Code
 
+![I am a Full Stack Developer](https://github.com/fpsapc/fpsapc/blob/main/coding.gif) <br>
 ## Projects:
 #### Here are some of the projects I've worked on as a full-stack developer:
 
@@ -37,15 +49,11 @@
 - HTML/CSS and JavaScript best practices are used to make this project.
 - Also use webpacks in this project. This project can be run on localhost using dev server.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/fpsapc)
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+ 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=fpsapc)](https://github.com/ryo-ma/github-profile-trophy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fpsapc)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fpsapc&show_icons=true&count_private=true)   
-![GitHub metrics](https://metrics.lecoq.io/fpsapc)  
-![GitHub streak stats](https://streak-stats.demolab.com/?user=fpsapc)  
-![Profile views](https://gpvc.arturio.dev/fpsapc)  
+
 
 ### Contact Me
 If you're interested in working with me or have any questions, feel free to reach out to me via [LinkedIn/Email/Twitter/Website].
