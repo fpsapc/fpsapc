@@ -1,5 +1,5 @@
 # Hi there 👋, I am Salman Ahmad Khan <br>
-###### A Full-stack developer with 02 months of experience. I have expertise in JavaScript, React, Node.js and have worked on several projects, including My portfolio, Apple Chemicals, To Do List, and Awesome Books. <br>
+###### A Full-Stack developer with 02 months of experience. I have expertise in JavaScript, React, Node.js and have worked on several projects, including My portfolio, Apple Chemicals, To Do List, and Awesome Books. <br>
 <div align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=fpsapc&show_icons=true&count_private=true" width='400'/>
   <img src="https://streak-stats.demolab.com/?user=fpsapc" width='430'/>
@@ -27,6 +27,10 @@
 ### Tools:
 - 🔨 Git, GitHub, VS Code
 
+<div align="center">
+  [![trophy](https://github-profile-trophy.vercel.app/?username=fpsapc)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
+  
 ![I am a Full Stack Developer](https://github.com/fpsapc/fpsapc/blob/main/coding.gif) <br>
 ## Projects:
 #### Here are some of the projects I've worked on as a full-stack developer:
@@ -49,12 +53,6 @@
 - You can also clear all completed tasks after selecting them from the list.
 - HTML/CSS and JavaScript best practices are used to make this project.
 - Also use webpacks in this project. This project can be run on localhost using dev server.
-
- 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=fpsapc)](https://github.com/ryo-ma/github-profile-trophy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fpsapc)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ### Contact Me
 If you're interested in working with me or have any questions, feel free to reach out to me via [LinkedIn/Email/Twitter/Website].
