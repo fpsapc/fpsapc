@@ -21,7 +21,7 @@
 
   <table align="center">
 		<tr>
-			<th colspan="2"><h2>🤹‍♀️ Skills 🤹‍</h2></th>
+			<th colspan="2"><h2>✏ Skills ✏</h2></th>
 		</tr>
 		<tr>
 			<td><b>Front-end:</b></td>
