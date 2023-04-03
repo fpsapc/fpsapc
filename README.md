@@ -31,6 +31,7 @@
 
 ### Tools:
 - 🔨 Git, GitHub, VS Code
+  <hr>
 
 <h3 align="center">Contact Me<h3>
 <h5 align="center"><i>If you're interested in working with me or have any questions, feel free to reach out to me via GitHub, LinkedIn, Facebook, Twitter.</i></h5><br><br>
