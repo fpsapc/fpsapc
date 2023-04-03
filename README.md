@@ -32,34 +32,12 @@
 ### Tools:
 - 🔨 Git, GitHub, VS Code
 
-
-## Projects:
-#### Here are some of the projects I've worked on as a full-stack developer:
-
-### My Portfolio:
-- I use mobile first approach to make this project and make it responsive for all devices. 
-- HTML/CSS and JavaScript best practices are used to make this project.
-
-### Awesome Books:
-- In this project you can add new book and remove existing books, it looks like a library.
-- HTML/CSS and JavaScript best practices are used to make this project.
-
-### Apple Chemicals:
-- This project belongs to inform farmer's about a meeting and also introduced some aspect of company.
-- HTML/CSS and JavaScript best practices are used to make this project.
-
-### To Do List:
-- You can add your daily tasks list here and tick every task acording to its completion.
-- You can also remove and edit tasks. 
-- You can also clear all completed tasks after selecting them from the list.
-- HTML/CSS and JavaScript best practices are used to make this project.
-- Also use webpacks in this project. This project can be run on localhost using dev server.
-
 ### Contact Me
 If you're interested in working with me or have any questions, feel free to reach out to me via [LinkedIn/Email/Twitter/Website].
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/fpsapc) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/salmanahmad1987/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/salmansami_a@yahoo.com)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/salmanahmadkhan1987)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://fpsapc.github.io/MicroverseStudentProject1/)
+<div align="center">
+<a href='https://github.com/fpsapc'><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a> &emsp;
+<a href='https://www.linkedin.com/in/salmanahmad1987'><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a>
+<a href='https://www.facebook.com/salmansami_a@yahoo.com'><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'></a>
+<a href='https://twitter.com/salmanahmadkhan1987'><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'></a>
+<a href='https://fpsapc.github.io/MicroverseStudentProject1'><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'></a>
+</div>
