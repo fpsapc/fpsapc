@@ -1,24 +1,26 @@
 # Hi there 👋, I am Salman Ahmad Khan <img src='https://github.com/fpsapc/fpsapc/blob/main/cup.gif' width='50'/><br>
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+Full-Stack+developer+with+02+months+of;experience.+I+have+expertise+in+JavaScript;React,+and+Node.js+My+projects;including+My+portfolio,+Apple+Chemicals;To+Do+List,+and+Awesome+Books.;)](https://git.io/typing-svg)
-<br>
+<br><img src="./line.gif">
 <div align="center"> 
 <img src=https://github-readme-stats.vercel.app/api?username=fpsapc&show_icons=true&count_private=true" width='700' /><br><br>
-  <img src="https://streak-stats.demolab.com/?user=fpsapc" width='700'/> 
+<img src="./line.gif">
+<img src="https://streak-stats.demolab.com/?user=fpsapc" width='700'/> 
 </div><br><br>
+<img src="./line.gif">
 
 <h3 align="center"> 
   Number of People who shared my friendship <br><br>
   <img src="https://profile-counter.glitch.me/fpsapc/count.svg" />
-</h3><br><br>
+</h3><br>
 
 <div align="center">
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>&emsp;&emsp; <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a>&emsp;&emsp; <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>&emsp;&emsp; <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a>&emsp;&emsp; <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>&emsp;&emsp;
 <a href='https://github.com/fpsapc/'><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
-</div> <hr>
+</div> <img src="./line.gif">
 
 <div align="center">
   <img src='https://github.com/fpsapc/fpsapc/blob/main/coding.gif' />  
-</div> <hr> 
+</div> <img src="./line.gif">
 
 <h2 align="center">My Skill Set<h2>  
 <table><tr><td valign="top" width="33%">
@@ -50,7 +52,6 @@
 </td><td valign="top" width="33%">
 
 
-
 ### DevOps  
 <div align="center">  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
@@ -59,9 +60,7 @@
 <a href="https://rubyonrails.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rails-original-wordmark.svg" alt="Ruby on Rails" height="50" /></a>  
 <a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50" /></a>  
 </div>
-
-</td></tr></table>  
-<br/>  
+</td></tr></table>
 <h2 align="center">📞 Contact Me</h2>
 <h3 align="center"><i>If you're interested in working with me or have any questions, feel free to reach out to me via GitHub, LinkedIn, Facebook, Twitter or visit my portfolio.</i></h3><br><br>
 <div align="center">
