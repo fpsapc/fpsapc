@@ -2,7 +2,7 @@
 ###### A Full-Stack developer with 02 months of experience. I have expertise in JavaScript, React, and Node.js and have worked on several projects, including My portfolio, Apple Chemicals, To Do List, and Awesome Books. <br>
 <div align="center"> 
 <img src=https://github-readme-stats.vercel.app/api?username=fpsapc&show_icons=true&count_private=true" width='350' />
-  <img src="https://streak-stats.demolab.com/?user=fpsapc" width='380'/> 
+  <img src="https://streak-stats.demolab.com/?user=fpsapc" width='370'/> 
 </div><br>
 
 <p align="center"> 
