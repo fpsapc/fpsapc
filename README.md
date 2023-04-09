@@ -1,5 +1,6 @@
 # Hi there 👋, I am Salman Ahmad Khan <img src='https://github.com/fpsapc/fpsapc/blob/main/cup.gif' width='50'/><br>
-#### A Full-Stack developer with 02 months of experience. I have expertise in JavaScript, React, and Node.js and have worked on several projects, including My portfolio, Apple Chemicals, To Do List, and Awesome Books. <br><br><br>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+Full-Stack+developer+with+02+months+of;experience.+I+have+expertise+in+JavaScript;React,+and+Node.js+My+projects;including+My+portfolio,+Apple+Chemicals;To+Do+List,+and+Awesome+Books.;)](https://git.io/typing-svg)
+<br>
 <div align="center"> 
 <img src=https://github-readme-stats.vercel.app/api?username=fpsapc&show_icons=true&count_private=true" width='700' /><br><br>
   <img src="https://streak-stats.demolab.com/?user=fpsapc" width='700'/> 
