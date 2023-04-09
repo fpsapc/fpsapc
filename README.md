@@ -66,11 +66,11 @@
 <br/>  
   
 <h3 align="center">📞 Contact Me<h3>
-<h5 align="center"><i>If you're interested in working with me or have any questions, feel free to reach out to me via GitHub, LinkedIn, Facebook, or Twitter.</i></h5><br><br>
+<h5 align="center"><i>If you're interested in working with me or have any questions, feel free to reach out to me via GitHub, LinkedIn, Facebook, Twitter or visit my portfolio.</i></h5><br><br>
 <div align="center">
 <a href='https://github.com/fpsapc'><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a> &emsp;&emsp;
 <a href='https://www.linkedin.com/in/salman-ahmad1987/'><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a>&emsp;&emsp;
 <a href='https://www.facebook.com/salmansami_a@yahoo.com'><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'></a>&emsp;&emsp;
 <a href='https://twitter.com/salmanahmadkhan1987'><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'></a>&emsp;&emsp;
-<a href='https://fpsapc.github.io/MicroverseStudentProject1'><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'></a>
+<a href='https://fpsapc.github.io/MicroverseStudentProject1'><img src='https://avatars.githubusercontent.com/u/112868013?s=400&u=3040c2fd44935c8211d7524391ee0a132f5b2bc2&v=4' alt='website' height='40' style="border: 1px solid black; border-radius: 50%;"></a>
 </div>
