@@ -22,7 +22,7 @@
   <img src='https://github.com/fpsapc/fpsapc/blob/main/coding.gif' />  
 </div> <img src="./line.gif">
 
-<h2 align="center">My Skill Set<h2>  
+<h2 align="center"><img src="./line.gif">My Skill Set<img src="./line.gif"><h2>  
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
