@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+Full-Stack+developer+with+02+months+of;experience.+I+have+expertise+in+JavaScript;React,+and+Node.js+My+projects;including+My+portfolio,+Apple+Chemicals;To+Do+List,+and+Awesome+Books.;)](https://git.io/typing-svg)
 <br><img src="./line.gif">
 <div align="center"> 
-<img src=https://github-readme-stats.vercel.app/api?username=fpsapc&show_icons=true&count_private=true" width='699' /><br><br>
+<img src= https://github-readme-stats.vercel.app/api?username=fpsapc width='699' /><br><br>
 <img src="./line.gif">
 <img src="https://streak-stats.demolab.com/?user=fpsapc" width='700'/> 
 </div><br><br>
