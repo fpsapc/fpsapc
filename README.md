@@ -2,7 +2,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+Full-Stack+developer+with+real+world+projects;experience.+I+have+expertise+in+JavaScript;React,+and+Ruby+on+Rails+My+projects;including+My+portfolio,+Apple+Chemicals;To+Do+List,+and+Awesome+Books.;)](https://git.io/typing-svg)
 <div align="center"> 
 <img src= https://github-readme-stats.vercel.app/api?username=fpsapc width='699' /><br><br>
-<img src="./line.gif">
 <img src="https://streak-stats.demolab.com/?user=fpsapc" width='700'/> 
 </div><br><br><br>
 
